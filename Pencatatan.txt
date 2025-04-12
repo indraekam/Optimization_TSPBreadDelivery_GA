@@ -1,0 +1,47 @@
+jumlahIndividu = 20;
+jumlahKromosome = 27;
+iterasi = 100;
+crossRate = 0.4;
+mutRate = 0.6;
+
+Run 1 : 
+solusi =
+
+     1    23    17    16     7    18    20    14     5     6     9    19     1     1    10     4    12    21    11    22    15    13    24     3     8     2     1
+
+Rute Armada Satu : 
+1 : Depot (Perusahaan Roti Bobo)
+2 : TOKO SEMPURNA JAYA
+3 : TOKO EDDY JAYA
+4 : TOKO MULYADI
+5 : TOKO HARIAN RENI
+6 : TOKO AZA
+7 : TOKO PAS JAYA
+8 : TOKO ZAZIZO
+9 : TOKO SAUDARA JAYA
+10 : TOKO AJO BARANG HARIAN
+11 : TOKOBUNDA 2
+12 : TOKO SENTOSA JAYA
+13 : Depot (Perusahaan Roti Bobo)
+Dengan Total Jarak Armada 1 : 82.60 Km
+
+Rute Armada Dua : 
+1 : Depot (Perusahaan Roti Bobo)
+2 : TOKO RUDI
+3 : TOKO HARIAN AGUS
+4 : TOKO ASRIL JAYA
+5 : TOKO DONI
+6 : TOKO ZAKY
+7 : TOKO S & Q
+8 : TOKO RAHMAT CIPTA KARYA
+9 : TOKO ARKHAN
+10 : TOKO BERDUA SATU TUJUAN
+11 : TOKO MAJU JAYA
+12 : TOKO DODI JAYA
+13 : TOKO BUNDA
+14 : Depot (Perusahaan Roti Bobo)
+Dengan Total Jarak Armada 2: 57.30 Km
+
+Dengan Total Jarak Keseluruahan Perjalanan: 139.90 Km
+
+Run 2 : 
